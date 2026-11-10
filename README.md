@@ -1,3 +1,4 @@
+![Menu principal SworldCraft](https://raw.githubusercontent.com/HiddingCode4/Menu-SworldCraft/main/menu-principal.png)
 # Sworldcraft Menu — NeoForge 26.3
 
 Menu principal personnalisé pour le modpack Sworldcraft.
